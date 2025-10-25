@@ -80,7 +80,7 @@ The core result of this analysis is the Bayesian evidence difference (Δln Z) of
 
 | Harmonic Mean Evidence (Δln Z vs NFW) | BIC Approximation (Δln Z vs NFW) |
 |:------------------------------------:|:--------------------------------:|
-| ![](results/lnZ_relative_NFW_harmonic.png) | ![](results/lnZ_relative_NFW_BIC.png) |
+| ![](lnzharm.png) | ![](lnzbic.png) |
 
 > Each histogram shows the distribution of Δln Z across the SPARC galaxy sample.  
 > Positive tails indicate galaxies better fit by gNFW or rotating BEC models.
