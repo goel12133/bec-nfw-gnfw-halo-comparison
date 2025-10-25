@@ -88,20 +88,20 @@ The core result of this analysis is the Bayesian evidence difference (Δln Z) of
 ## Result (Posterior Distributions)
 
 **BEC (rot vs non-rot)**  
-<img src="figures/corner/corner_bec_64.png"   width="45%" alt="corner_bec_64">  
-<img src="figures/corner/corner_bec_154.png"  width="45%" alt="corner_bec_154">  
+<img src="corner_bec_64.png"   width="45%" alt="corner_bec_64">  
+<img src="corner_bec_154.png"  width="45%" alt="corner_bec_154">  
 <br/>
-<img src="figures/corner/corner_bec_444.png"  width="45%" alt="corner_bec_444">  
-<img src="figures/corner/corner_bec_891.png"  width="45%" alt="corner_bec_891">
+<img src="corner_bec_444.png"  width="45%" alt="corner_bec_444">  
+<img src="corner_bec_891.png"  width="45%" alt="corner_bec_891">
 
 <br/><br/>
 
 **NFW vs gNFW**  
-<img src="figures/corner/corner_nfw_64.png"   width="45%" alt="corner_nfw_64">  
-<img src="figures/corner/corner_nfw_154.png"  width="45%" alt="corner_nfw_154">  
+<img src="corner_nfw_64.png"   width="45%" alt="corner_nfw_64">  
+<img src="corner_nfw_154.png"  width="45%" alt="corner_nfw_154">  
 <br/>
-<img src="figures/corner/corner_nfw_444.png"  width="45%" alt="corner_nfw_444">  
-<img src="figures/corner/corner_nfw_891.png"  width="45%" alt="corner_nfw_891">
+<img src="corner_nfw_444.png"  width="45%" alt="corner_nfw_444">  
+<img src="corner_nfw_891.png"  width="45%" alt="corner_nfw_891">
 
 </div>
 
